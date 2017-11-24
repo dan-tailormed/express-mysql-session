@@ -18,7 +18,7 @@
   "dependencies": {
     "debug": "3.1.0",
     "depd": "1.1.1",
-    "express-session": "1.15.6",
+    "express-session": "https://github.com/dan-tailormed/session.git",
     "mysql": "2.15.*",
     "underscore": "1.8.3"
   },
